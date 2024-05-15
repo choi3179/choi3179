@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=1E64B4&text=Choi3179's%20Github&fontAlignY=50&textBg=false&reversal=false&fontColor=FFFFFF)
 
 <!--
 **choi3179/choi3179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
